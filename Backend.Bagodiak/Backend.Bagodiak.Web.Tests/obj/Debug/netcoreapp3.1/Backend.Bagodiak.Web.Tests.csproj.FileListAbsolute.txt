@@ -96,8 +96,10 @@ C:\git\Backend.Bagodiak\Backend.Bagodiak\Backend.Bagodiak.Web.Tests\bin\Debug\ne
 C:\git\Backend.Bagodiak\Backend.Bagodiak\Backend.Bagodiak.Web.Tests\obj\Debug\netcoreapp3.1\Backend.Bagodiak.Web.Tests.csprojAssemblyReference.cache
 C:\git\Backend.Bagodiak\Backend.Bagodiak\Backend.Bagodiak.Web.Tests\obj\Debug\netcoreapp3.1\Backend.Bagodiak.Web.Tests.AssemblyInfoInputs.cache
 C:\git\Backend.Bagodiak\Backend.Bagodiak\Backend.Bagodiak.Web.Tests\obj\Debug\netcoreapp3.1\Backend.Bagodiak.Web.Tests.AssemblyInfo.cs
-C:\git\Backend.Bagodiak\Backend.Bagodiak\Backend.Bagodiak.Web.Tests\obj\Debug\netcoreapp3.1\Backend.Bagodiak.Web.Tests.csproj.CoreCompileInputs.cache
 C:\git\Backend.Bagodiak\Backend.Bagodiak\Backend.Bagodiak.Web.Tests\obj\Debug\netcoreapp3.1\Backend.Bagodiak.Web.Tests.csproj.CopyComplete
 C:\git\Backend.Bagodiak\Backend.Bagodiak\Backend.Bagodiak.Web.Tests\obj\Debug\netcoreapp3.1\Backend.Bagodiak.Web.Tests.dll
 C:\git\Backend.Bagodiak\Backend.Bagodiak\Backend.Bagodiak.Web.Tests\obj\Debug\netcoreapp3.1\Backend.Bagodiak.Web.Tests.pdb
 C:\git\Backend.Bagodiak\Backend.Bagodiak\Backend.Bagodiak.Web.Tests\obj\Debug\netcoreapp3.1\Backend.Bagodiak.Web.Tests.genruntimeconfig.cache
+C:\git\Backend.Bagodiak\Backend.Bagodiak\Backend.Bagodiak.Web.Tests\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\git\Backend.Bagodiak\Backend.Bagodiak\Backend.Bagodiak.Web.Tests\bin\Debug\netcoreapp3.1\Moq.dll
+C:\git\Backend.Bagodiak\Backend.Bagodiak\Backend.Bagodiak.Web.Tests\obj\Debug\netcoreapp3.1\Backend.Bagodiak.Web.Tests.csproj.CoreCompileInputs.cache

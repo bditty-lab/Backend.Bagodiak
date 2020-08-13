@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Backend.Bagodiak.Web", "Backend.Bagodiak\Backend.Bagodiak.Web.csproj", "{72AFEEE8-870E-4597-8467-CD5B4BB8993A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Backend.Bagodiak.Web.Tests", "Backend.Bagodiak.Web.Tests\Backend.Bagodiak.Web.Tests.csproj", "{374E25BF-5812-4217-B40F-5745D782FD84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72AFEEE8-870E-4597-8467-CD5B4BB8993A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72AFEEE8-870E-4597-8467-CD5B4BB8993A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72AFEEE8-870E-4597-8467-CD5B4BB8993A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72AFEEE8-870E-4597-8467-CD5B4BB8993A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{374E25BF-5812-4217-B40F-5745D782FD84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{374E25BF-5812-4217-B40F-5745D782FD84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{374E25BF-5812-4217-B40F-5745D782FD84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{374E25BF-5812-4217-B40F-5745D782FD84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A151948B-1BBD-44CB-A6D2-32D611C41BAB}
+	EndGlobalSection
+EndGlobal
